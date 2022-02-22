@@ -1,0 +1,187 @@
+---
+layout: default
+---
+
+<div class="flex-container container landing-hero justify-between">
+  <div class="logo-details">
+    <img src="/assets/images/logo.svg" loading="lazy" alt="PrototypeFund Demo Week Round 10" />
+    <h1 class="pink-border">Prototype</h1>
+    <h1 class="blue-border">Fund</h1>
+  </div>
+  <div class="description">
+    <h3>RUNDE 10</h3>
+    <p>
+      Zum Abschluss der 10. Förderrunde des Prototype Fund findet bereits zum dritten Mal eine virtuelle Demo Week statt.
+      Vom <b>28. Februar</b>. bis <b>4. März 2021</b> präsentieren die <b>29 Projekte</b> hier in Form von Texten,
+      Videos, Bildern und natürlich Demos die Softwareprototypen, an denen sie in den vergangenen sechs Monaten im Rahmen
+      ihrer Förderung gearbeitet haben.
+      <br /><br />
+      Am <b>Montag (28.02., 18:00)</b> startet die Demo Week mit einer <a href="#keynote1">Eröffnung</a>. In den
+      darauffolgenden Tagen stellen
+      sich die
+      <a href="#project-section">Projekte</a> vor.
+    </p>
+    <div class="round-7">
+      <p>Du suchst die Demo Week der Runde 7, 8 und 9?</p>
+      <a href="https://archive.demoweek.prototypefund.de" target="_blank" rel="noopener">Hier geht es lang</a>
+    </div>
+  </div>
+</div>
+<hr>
+<div class="flex-container video-container container justify-between" id="keynote1">
+  <div class="description">
+    <h2>Eröffnung</h2>
+    <p>Am <b>28.02.</b> startet die Demo Week offiziell mit der Eröffnung ab <b>18:00 Uhr</b>.  Euch erwarten neben der Vorstellung der geförderten Projekte eine Panel-Diskussion “Jounalismus und digitale Infrastruktur” mit Marie-Louise Timcke, Lisa Dittmer, Ingo Dachwitz und Friedrich Lindenberg, moderiert von Geraldine de Bastion.
+    </p>
+    <h2>Panel</h2>
+    <div class="flex-container justify-start">
+      <div class="speaker flex-container justify-start align-center">
+        <img src="/assets/images/speakers/Marie_Louise_Timcke.jpg" loading="lazy" alt="Marie-Louise Timcke" />
+        <div class="speaker-details">
+          <h4>Marie-Louise Timcke</h4>
+          <small>Süddeutsche Zeitung / Journocode</small>
+        </div>
+      </div>
+      <div class="speaker flex-container justify-start align-center">
+        <img src="/assets/images/speakers/Lisa_Dittmer.jpg" loading="lazy" alt="Lisa Dittmer" />
+        <div class="speaker-details">
+          <h4>Lisa Dittmer</h4>
+          <small>Reporter ohne Grenzen</small>
+        </div>
+      </div>
+    </div>
+    <div class="flex-container justify-start">
+      <div class="speaker flex-container justify-start align-center">
+        <img src="/assets/images/speakers/Ingo_Dachwitz.jpg" loading="lazy" alt="Ingo Dachwitz" />
+        <div class="speaker-details">
+          <h4>Ingo Dachwitz</h4>
+          <small>Netzpolitik.org</small>
+        </div>
+      </div>
+      <div class="speaker flex-container justify-start align-center">
+        <img src="/assets/images/speakers/Friedrich_Lindenberg.jpeg" loading="lazy" alt="Friedrich Lindenberg" />
+        <div class="speaker-details">
+          <h4>Friedrich Lindenberg</h4>
+          <small>OpenSanctions.org</small>
+        </div>
+      </div>
+    </div>
+    <div class="flex-container justify-start">
+      <div class="speaker flex-container justify-start align-center">
+        <img src="/assets/images/speakers/Geraldine_de_Bastion.jpg" loading="lazy" alt="Geraldine de Bastion" />
+        <div class="speaker-details">
+          <h4>Geraldine de Bastion</h4>
+          <small>Konnektiv</small>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="video">
+    <!--<div class="iframe-container">
+      <iframe src="https://www.youtube-nocookie.com/embed/S_Hye31GAD8" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+    </div>-->
+    <img src="/assets/images/video_placeholder.svg" loading="lazy" alt="Placeholder for an upcoming video" />
+  </div>
+</div>
+{% include separator.html %}
+{% assign featured_project = site.projects | sample: 2 %}
+<div class="featured-projects container" id="project-section">
+  <span class="featured-title">
+    Projekt Highlight
+  </span>
+  <div class="flex-container project justify-around align-center">
+    <div class="project-image">
+      {% if featured_project[0].image %}
+      <img src="{{ featured_project[0].image }}" loading="lazy" alt="{{ featured_project[0].title }}" />
+      {% else %}
+      <img src="/assets/images/project_img_placeholder.png" loading="lazy" alt="Placeholder for a project image" />
+      {% endif %}
+    </div>
+    <div class="project-details">
+      <div class="project-authors">
+        {% for author in featured_project[0].authors %}
+        <a {% if author.link %}href="{{ author.link }}" {% endif %}>
+          {{ author.author }}{% if forloop.last != true %}, {% endif %}
+        </a>
+        {% endfor %}
+      </div>
+      <h2 class="project-title">{{ featured_project[0].title }}</h2>
+      <p class="project-brief">
+        {{ featured_project[0].brief }}
+      </p>
+      <p class="project-description">
+        {{ featured_project[0].summary }}
+      </p>
+      <a href="{{ featured_project[0].url }}" class="btn project-btn">View Project</a>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <h2 class="text-left">Alle Projekte</h2>
+  <p class="text-left project-section-desc">
+    Diese 29 Projekte haben wir in der 10. Runde des Prototype Fund mit Mitteln des BMBF von September – Februar 2022
+    gefördert.
+  </p>
+  {% for project in site.projects %}
+  {% assign mod = forloop.index | modulo: 2 %}
+  <div class="flex-container project {% if mod == 1%}inverse{% endif %} justify-between">
+    <div class="project-image">
+      <a href="{{ project.url }}" style="line-height: 0;">
+        {% if project.image %}
+        <img src="{{ project.image }}" loading="lazy" alt="{{ project.title }}" />
+        {% else %}
+        <img src="/assets/images/project_img_placeholder.png" loading="lazy" alt="Placeholder for a project image" />
+        {% endif %}
+      </a>
+    </div>
+    <div class="project-details">
+      <div class="project-authors">
+        {% for author in project.authors %}
+        <a {% if author.link %}href="{{ author.link }}" {% endif %}>
+          {{ author.author }}{% if forloop.last != true %}, {% endif %}
+        </a>
+        {% endfor %}
+      </div>
+      <a href="{{ project.url }}">
+        <h2 class="project-title">
+          {{ project.title }}
+        </h2>
+      </a>
+      <p class="project-brief">
+        {{ project.brief }}
+      </p>
+      <a href="{{ project.url }}" class="btn project-btn">View Project</a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+<img id="scroll-to-top" src="/assets/images/scroll.png" loading="lazy" alt="Scroll to top button"
+  onclick="topFunction()" />
+<script>
+  //Get the button
+  var mybutton = document.getElementById("scroll-to-top");
+
+  // When the user scrolls down 20px from the top of the document, show the button
+  window.onscroll = function () { scrollFunction() };
+
+  function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+      mybutton.style.display = "block";
+    } else {
+      mybutton.style.display = "none";
+    }
+  }
+
+  // When the user clicks on the button, scroll to the top of the document
+  function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  }
+</script>
+<script>
+  var projects = {{ site.projects | jsonify }};
+</script>
+<script src="/assets/js/randomFeaturedProject.js"></script>
+<script src="/assets/js/fadeInPage.js"></script>

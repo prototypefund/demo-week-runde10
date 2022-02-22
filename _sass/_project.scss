@@ -1,0 +1,75 @@
+.project-body {
+  max-width: 750px;
+  margin: auto;
+  margin-bottom: 10rem;
+  color: #a8a9c2;
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: $white;
+    margin: 1.5rem 0;
+    line-height: 150%;
+  }
+
+  img {
+    max-width: 100%;
+    width: 100%;
+  }
+
+  b,
+  strong {
+    color: #cfd0e2;
+  }
+
+  video {
+    max-width: 100%;
+  }
+
+  iframe {
+    max-width: 100%;
+  }
+
+  blockquote {
+    border-left: 5px solid $neon_pink;
+    margin-left: 0;
+    padding-left: 1.25rem;
+  }
+
+  pre {
+    overflow: auto;
+  }
+}
+
+.project-container {
+  .home-link {
+    color: $neon_pink;
+    text-transform: uppercase;
+
+    & p {
+      display: flex;
+      align-items: center;
+    }
+
+    & > div > p:before {
+      content: "";
+      display: inline-block;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%23FF0080' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='15 18 9 12 15 6'%3E%3C/polyline%3E%3C/svg%3E");
+      background-size: 32px 32px;
+      height: 32px;
+      width: 32px;
+      margin-right: 10px;
+      transition: 0.25s ease-in-out;
+    }
+
+    div {
+      margin-top: 5rem;
+      margin-bottom: 2rem;
+    }
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
