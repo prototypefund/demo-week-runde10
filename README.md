@@ -8,4 +8,4 @@ Demo-Webseite der 29 Projekte der 10. Förderrunde des Prototype Funds.
 - Clone this repo.
 - Install dependencies: `bundler install`
 - After running commands above, run `bundle exec jekyll serve` to preview locally.
-- Use the address <http://127.0.0.1:4000> in your browser.
+- Use the address <http://127.0.0.1:4000/tbc> in your browser.
