@@ -109,7 +109,7 @@ Daher würden wir uns sehr über praktische oder auch finanzielle Unterstützung
 
 ### Danke! 🎊
 
-Besonderen Dank für Begleitung, Unterstützung und Feedback: Pau\* Schwer, Uxía Iglesias, Abdulghaffar Tammaa, Nina Siessegger (für den Crashkurs in gitbasierter Projektentwicklung), Ngọc Triệu von Simply Secure, Thomas T., Fuchs, Garabatos Atelier, die Arbeitsgruppe "Queer narratives, mapped", Marie Guthub und dem Prototype Fund sowie unsere Ansprechpersonen beim DLR Projektträger.
+Besonderen Dank für Begleitung, Unterstützung und Feedback: Pau\* Schwer, Uxía Iglesias, Abdulghaffar Tammaa, Nina Siessegger (für den Crashkurs in gitbasierter Projektentwicklung), Ngọc Triệu von Simply Secure, Thomas T., Fuchs, Garabatos Atelier, die Arbeitsgruppe "Queer narratives, mapped", Marie Gutbub und dem Prototype Fund sowie unsere Ansprechpersonen beim DLR Projektträger.
 
 Wir bedanken uns für die Förderung unseres Projekts beim Bundesministerium für Forschung und Bildung (BMBF).
 
