@@ -70,3 +70,7 @@ Nein. Die Teilschlüssel sind für sich genommen unbrauchbar, denn erst memoorje
 ### Sind Inhaber\*innen der Teilschlüssel auch gleichzeitig Empfänger\*innen der Inhalte? 
 
 Die Inhaber\*innen der Teilschlüssel sind nicht zwingend auch die Empfänger\*innen der Inhalte. Es besteht auch hier eine freie Wahl der Personen. So können beispielsweise mehrere Teilschlüssel-Inhaber\*innen ausgewählt werden, aber eine ganz andere Person empfängt letztendlich den Inhalt der Kapsel.
+
+## Danksagung
+
+Vielen Dank an das BMBF, das unsere Förderung ermöglicht hat und die Teams des DLR und des PrototypeFund für die freundliche, engagierte und allgemein großartige Unterstützung durch Feedback, Erinnerungen, 1:1 Gespräche, Ermutigungen und allerlei Tipps. Ohne euch wären wir nicht da, wo wir sind <3.
