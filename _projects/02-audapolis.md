@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Audapolis"
-image: /assets/images/project_images/audapolis/header.png
+image: /assets/images/project_images/audapolis/header.jpg
 authors:
   - author: pajowu
     link: https://twitter.com/pajowu

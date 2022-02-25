@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Law in Progress"
-image: /assets/images/project_images/law-in-progress/header.png
+image: /assets/images/project_images/law-in-progress/header.jpg
 authors:
   - author: Tobias Sterbak
     link: https://tobiassterbak.com

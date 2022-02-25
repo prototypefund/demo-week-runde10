@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Chatmosphere 2.0"
-image: /assets/images/project_images/chatmosphere/header.png
+image: /assets/images/project_images/chatmosphere/header.jpg
 authors:
   - author: David Grieshammer
     link: https://davidgrieshammer.com/

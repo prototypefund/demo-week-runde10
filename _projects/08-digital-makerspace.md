@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Digital Makerspace"
-image: /assets/images/project_images/digital-makerspace/header.png
+image: /assets/images/project_images/digital-makerspace/header.jpg
 authors:
   - author: André Kless
     link: https://twitter.com/DigiMakerspace

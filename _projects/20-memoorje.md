@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "memoorje"
-image: /assets/images/project_images/memoorje/header.png
+image: /assets/images/project_images/memoorje/header.jpg
 authors:
   - author: Konrad
     link:

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Einsatzsimulator für Führungskräfte des Bevölkerungsschutzes"
-image: /assets/images/project_images/einsatzsimulator/header.png
+image: /assets/images/project_images/einsatzsimulator/header.jpg
 authors:
   - author: Klaus Herberth
     link: https://herberth.eu

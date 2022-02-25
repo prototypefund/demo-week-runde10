@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "XRevent – Der Baukasten für Cross-Reality Events"
-image: /assets/images/project_images/xr-event/header.png
+image: /assets/images/project_images/xr-event/header.jpg
 authors:
   - author: Anke von der Heide
     link: http://www.xrchitecture.de

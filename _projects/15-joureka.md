@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "joureka - Mit mehr Muße vom Interview zum Artikel!"
-image: /assets/images/project_images/joureka/header.png
+image: /assets/images/project_images/joureka/header.jpg
 authors:
   - author: Ana-Maria Tomi
     link: https://github.com/anatomi

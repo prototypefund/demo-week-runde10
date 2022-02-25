@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Teledash – Recherche- und Analyse-Software für Telegram"
-image: /assets/images/project_images/teledash/header.png
+image: /assets/images/project_images/teledash/header.jpg
 authors:
   - author: Grischa Stanjek
     link: https://twitter.com/grischka

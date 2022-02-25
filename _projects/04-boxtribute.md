@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Boxtribute-api-plus"
-image: /assets/images/project_images/boxtribute/header.png
+image: /assets/images/project_images/boxtribute/header.jpg
 authors:
   - author: Philipp Metzner
     link: https://boxtribute.org

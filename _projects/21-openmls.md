@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "OpenMLS"
-image: /assets/images/project_images/openmls/header.png
+image: /assets/images/project_images/openmls/header.jpg
 authors:
   - author: Raphael Robert
     link: https://twitter.com/raphaelrobert

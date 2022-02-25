@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Face the Facts"
-image: /assets/images/project_images/face-the-facts/header.png
+image: /assets/images/project_images/face-the-facts/header.jpg
 authors:
   - author: Victor Bellu
     link: 

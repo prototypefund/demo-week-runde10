@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Open Public Transport"
-image: /assets/images/project_images/open-public-transport/header.png
+image: /assets/images/project_images/open-public-transport/header.jpg
 authors:
   - author: Florian Lorisch
     link: https://www.linkedin.com/in/florianlorisch/

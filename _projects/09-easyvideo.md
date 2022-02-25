@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Easyvideo"
-image: /assets/images/project_images/easyvideo/header.png
+image: /assets/images/project_images/easyvideo/header.jpg
 authors:
   - author: Hong Phuc Dang
     link:

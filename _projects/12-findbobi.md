@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "findbobi.com - Find and Book Black Asian Minority Ethnic (BAME) Owned Businesses"
-image: /assets/images/project_images/findbobi/header.png
+image: /assets/images/project_images/findbobi/header.jpg
 authors:
   - author: Peter Akpotosu-Nartey
     link: 

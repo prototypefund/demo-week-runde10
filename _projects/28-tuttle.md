@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Tuttle"
-image: /assets/images/project_images/tuttle/header.png
+image: /assets/images/project_images/tuttle/header.jpg
 authors:
   - author: Christian Staudt
     link: https://clstaudt.me

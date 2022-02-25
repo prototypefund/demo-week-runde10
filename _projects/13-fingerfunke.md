@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "fingerfunke"
-image: /assets/images/project_images/fingerfunke/header.png
+image: /assets/images/project_images/fingerfunke/header.jpg
 authors:
   - author: Katharina Brauner
     link: 

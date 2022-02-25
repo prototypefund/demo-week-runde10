@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "The Everything Exhibition"
-image: /assets/images/project_images/the-everything-exhibition/header.png
+image: /assets/images/project_images/the-everything-exhibition/header.jpg
 authors:
   - author: blinry
     link:

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Cover-REST"
-image: /assets/images/project_images/cover-rest/header.png
+image: /assets/images/project_images/cover-rest/header.jpg
 authors:
   - author: Linus Behrens
     link: 

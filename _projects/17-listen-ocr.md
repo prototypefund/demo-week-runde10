@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Listen OCR für die Arolsen Archives"
-image: /assets/images/project_images/listen-ocr/header.png
+image: /assets/images/project_images/listen-ocr/header.jpg
 authors:
   - author: Thomas Werkmeister
     link: 

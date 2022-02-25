@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Genderly"
-image: /assets/images/project_images/genderly/header.png
+image: /assets/images/project_images/genderly/header.jpg
 authors:
   - author: pajowu
     link: https://twitter.com/pajowu

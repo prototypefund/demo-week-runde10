@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "PoliTrack"
-image: /assets/images/project_images/politrack/header.png
+image: /assets/images/project_images/politrack/header.jpg
 authors:
   - author: Michael Perk
     link: https://twitter.com/perkmi
