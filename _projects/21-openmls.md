@@ -9,7 +9,7 @@ brief: "Wir implementieren die MLS-Bibliothek für sichere Kommunikation."
 summary: "OpenMLS ist eine quelloffene Implementierung des MLS-Protokolls in Rust."
 ---
 
-![Tree](/assets/images/project_images/openmls/tree.svg)
+![Tree](/assets/images/project_images/openmls/tree.png)
 
 ## Einleitung
 
@@ -60,6 +60,12 @@ Zum Zeitpunkt des Schreibens ist OpenMLS in Version 0.4 veröffentlicht. Das API
 Im derzeitigen Stand kann OpenMLS bereits verwendet werden für die experimentelle Integration in bestehende und neue Projekte. [Erste Versuche laufen bereits bei dem sicheren Messenger Wire](https://thestack.technology/messaging-layer-security-is-coming-of-age/), sowie bei der [dezentralen und sicheren Datenbank p2panda](https://p2panda.org/). Weitere Projekte sind geplant, sobald die Spezifikation des Protokolls sich stabilisiert hat.
 
 Ziel des Projekts ist es, dass bei entsprechendem Bedarf die Bibliothek weiterentwickelt, an Änderungen der Spezifikation angepasst und die Sicherheit und Robustheit durch mehr Testing, Refactoring und Pflege des Codes erhöht wird.
+
+### Links
+
+Webseite: [openmls.tech](https://openmls.tech)
+
+Quellcode: [github.com/openmls/openmls](https://github.com/openmls/openmls)
 
 ---
 
