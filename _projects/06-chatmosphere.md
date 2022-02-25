@@ -13,6 +13,10 @@ brief: "Wir erweitern Chatmosphere für große Gruppen und machen es stabiler."
 summary: "Wir haben neue Features für die Kommunikation in großen Gruppen in Chatmosphere entwickelt, dazu eine session-übergreifende Architektur entworfen und eine Testumgebung bereit gestellt um die Serverlast zu evaluieren."
 ---
 
+<div class="iframe-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/n9EJ5QeVr4g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Chatmosphere ermöglicht dynamische Video-Gespräche im digitalen Raum
 
 Das Konzept entstand während des ersten coronabedingten Lockdowns 2020, als plötzlich ein Großteil unserer Kontakte digital stattgefunden hat. Auch die privaten Treffen waren digital, aber unsere Tools waren ausschließlich für den Arbeitskontext gestaltet. Durch die [Förderung in der Runde 8](https://archive.demoweek.prototypefund.de/runde8/projects/05-chatmosphere.html) des Prototype-Funds konnten wir eine Demo für ein fluides Interaktionskonzept erarbeiten und verproben.

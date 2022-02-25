@@ -17,6 +17,10 @@ brief: "Wir ermöglichen Künstler\\*innen die Durchführung hybrider Cross-Real
 summary: "Der **XRevent Creator** ist ein webbasierter Baukasten und soll helfen physische und virtuelle Events ohne Programmieraufwand zu verknüpfen und diese monetarisierbar einem breiten Publikum anzubieten"
 ---
 
+<div class="iframe-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/NbquSOzRf78" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 Wie viele andere aus der Eventbranche konnten auch wir Anfang 2020 keine realen Veranstaltungen durchführen: So auch Deutschlands sechstgrößter Wirtschaftszweig die Kultur- und Veranstaltungsbranche mit 170 Milliarden Euro Umsatz und über 1,8 Millionen Beschäftigten. Deshalb suchten wir nach neuen Lösungen, um am kulturellen Leben weiterhin teilzunehmen.
 
 Die **XRevent Plattform** basiert auf der Entwicklungsumgebung Unity und bietet die Möglichkeit physische und virtuelle Veranstaltungen miteinander zu verknüpfen sowie soziale, interaktive und dreidimensionale Live-Erlebnisse für Multiuser zu gestalten. Die Arbeitsweise zur Erstellung einer realen Veranstaltung wurde berücksichtigt und auf das virtuelle Event übertragen. Gängiges Eventequipment wie Lichtpult, Videomapping und Tontechnik dienen als Schnittstelle und können zur gleichzeitigen Manipulation beider Events genutzt werden. Live-Video- und Audiosignale, Positionsdaten der Besucher:innen sowie Artnet-Pakete, werden direkt in bzw. aus der VR-App gestreamt. Auf der realen Seite des Events ist der Aufwand nicht größer als für einen gewöhnlichen Livestream.

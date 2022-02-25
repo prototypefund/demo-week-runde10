@@ -11,6 +11,10 @@ brief: "Wir machen Informationen über Politiker\\*innen zugänglich und durchsu
 summary: "Unsere KI liest alle politische Nachrichtenartikel von den größten Medien aus Deutschland und generiert daraus spannende Statistiken und Einblicke."
 ---
 
+<div class="iframe-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/MrtNUjHQri4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 Einer der Grundpfeiler der Demokratie sind unabhängige Medien, die kritisch über die politische Lage im Land berichten. In Zeiten von Online-Journalismus und Livetickern zu aktuellen Geschehnissen vergisst man leicht, dass sich die Entscheidung bei einer Wahl auch an bereits vergangenen Entscheidungen und Meinungen orientieren sollte. Möchte man über eine\*n Bundestagsabgeordneten eines Landkreises mehr erfahren, kann man eine Onlinesuche machen, sich Interviews ansehen und auf Wahlkampfveranstaltungen gehen. All diese Möglichkeiten haben einen großen Makel: Es fehlt die zeitliche Dimension. Mehr noch ist es als Bürger\*in unglaublich schwer, bei aktuellen Berichten auf dem Laufenden zu bleiben. Sobald einzelne Themen durch die Nachrichten in den Vordergrund geraten sind, bekommen sie für einige Tage oder Wochen volle Aufmerksamkeit. Im Anschluss geraten sie dann wieder schnell in Vergessenheit.
 Für politische Partizipation und eine gute Wahlentscheidung ist es jedoch wichtig, möglichst gut informiert über die Positionen einzelner Politiker\*innen zu sein.
 Bei der Internetrecherche zu Politiker\*innen erscheinen nur aktuelle Themen. Um auch historische Daten einzubeziehen, muss ein enormer Aufwand betrieben werden, den nur die wenigsten in Kauf nehmen möchten. Gerade über Politiker\*innen, die selten in Medien erwähnt werden, ist es sehr schwierig, fundierte Informationen zu bekommen.

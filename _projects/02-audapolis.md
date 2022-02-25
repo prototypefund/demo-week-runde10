@@ -11,6 +11,10 @@ brief: "Wir bauen eine Desktop-Software für Audio-Schnitt des gesprochenen Wort
 summary: "Mit audapolis wird Audio- und Video-Schnitt so einfach wie das Bearbeiten eines Text-Dokuments."
 ---
 
+<div class="iframe-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/GF3ov-tlh-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 Hey, wir sind Karl und Jaro. 
 
 Im Rahmen des Prototype Fund haben wir audapolis entwickelt – ein Schnittprogramm für gesprochenes Wort.

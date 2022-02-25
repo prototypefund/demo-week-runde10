@@ -17,6 +17,10 @@ brief: "Wir vernetzen gehörlose, schwerhörige und hörende Menschen."
 summary: "fingerfunke ist eine Community-App für Gebärdensprachler*innen."
 ---
 
+<div class="iframe-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/w_r1zKVNIc4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Die Geschichte
 
 Mit einer simplen Idee, die in einem Gespräch zwischen Freundinnen entstand, die eine taub, die andere hörend, begann unser Projekt in einem Kreuzberger Café in Berlin. Ohne IT-Hintergrund nur mit einer Vision fing die Reise an. Über viele unterstützende Projekte, Hand-zu-Hand- und Mund-zu-Mund-Propaganda, einem Hackathon und dem Prototype Fund sind wir zu einem Team aus fünf Leuten gewachsen, die nun einen ersten Prototypen entwickelt haben.
