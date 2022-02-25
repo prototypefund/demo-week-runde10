@@ -29,6 +29,8 @@ Während der Förderphase konnten wir Kenntnisse in mehreren Programmiersprachen
 
 Für die großartige Unterstützung während der Förderphase möchten wir uns besonders beim DLR und dem BMBF bedanken. Ein weiterer besonderer Dank für die unermüdliche Hilfe zur Umsetzung des Prototypen XRevent Creator gilt allen Beteiligten der Open Knowledge Foundation und des Prototype Funds, die versucht haben trotz pandemiebedingter Onlinebetreuung eine Gemeinschaft aufzubauen und für jede Frage eine Antwort wussten.
 
+**Live-Demo: Klickt am 1.3. um 17:30 auf den Link https://xrchitecture.de/xrevent-creator/ und baut an euren eigenen digitalen Veranstaltungsräumen, die ihr in der Live-Demo von XRevent über den PC, Mac oder einen Oculus Client betreten könnt.**
+
 ![](/assets/images/project_images/xr-event/XRevent Creator 1.png "This is a sample image.")
 XRevent Creator: Web-Interface des Cross-Reality Baukastensystems
 
