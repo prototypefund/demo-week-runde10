@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Cover-REST"
-image: /assets/images/project_images/cover-rest/header.png
+image: /assets/images/project_images/cover-rest/header.jpg
 authors:
   - author: Linus Behrens
     link: 
@@ -12,6 +12,10 @@ authors:
 brief: "Wir automatisieren das Finden von Features im Quellcode."
 summary: "Du willst ein Feature implementieren, weisst aber nicht wo sich der Code versteckt? Cover-REST hilft Dir, die relevanten Stellen aus Millionen Zeilen Quelltext zu finden."
 ---
+
+<div class="iframe-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/vDa7Vd_HnOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 COVER-REST ist ein Projekt, welches das Auffinden von Codestellen vereinfachen will - gleichsam wie eine Karten-App fürs Handy, aber zur Navigation im Quelltext.
 

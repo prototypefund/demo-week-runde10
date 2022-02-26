@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "XRevent – Der Baukasten für Cross-Reality Events"
-image: /assets/images/project_images/xr-event/header.png
+image: /assets/images/project_images/xr-event/header.jpg
 authors:
   - author: Anke von der Heide
     link: http://www.xrchitecture.de
@@ -16,6 +16,10 @@ authors:
 brief: "Wir ermöglichen Künstler\\*innen die Durchführung hybrider Cross-Reality Events."
 summary: "Der **XRevent Creator** ist ein webbasierter Baukasten und soll helfen physische und virtuelle Events ohne Programmieraufwand zu verknüpfen und diese monetarisierbar einem breiten Publikum anzubieten"
 ---
+
+<div class="iframe-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/NbquSOzRf78" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Wie viele andere aus der Eventbranche konnten auch wir Anfang 2020 keine realen Veranstaltungen durchführen: So auch Deutschlands sechstgrößter Wirtschaftszweig die Kultur- und Veranstaltungsbranche mit 170 Milliarden Euro Umsatz und über 1,8 Millionen Beschäftigten. Deshalb suchten wir nach neuen Lösungen, um am kulturellen Leben weiterhin teilzunehmen.
 

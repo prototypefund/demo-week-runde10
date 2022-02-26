@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "fingerfunke"
-image: /assets/images/project_images/fingerfunke/header.png
+image: /assets/images/project_images/fingerfunke/header.jpg
 authors:
   - author: Katharina Brauner
     link: 
@@ -16,6 +16,10 @@ authors:
 brief: "Wir vernetzen gehörlose, schwerhörige und hörende Menschen."
 summary: "fingerfunke ist eine Community-App für Gebärdensprachler*innen."
 ---
+
+<div class="iframe-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/w_r1zKVNIc4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Die Geschichte
 

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Law in Progress"
-image: /assets/images/project_images/law-in-progress/header.png
+image: /assets/images/project_images/law-in-progress/header.jpg
 authors:
   - author: Tobias Sterbak
     link: https://tobiassterbak.com
@@ -39,16 +39,14 @@ Zum Verarbeiten und Anwenden der Änderungsbefehle aus dem Änderungsgesetz, par
 
 Kurz nach Start des Projekts wurde aus dem aktuellen Koalitionsvertrag von 2021 klar, dass die Politik das Problem ebenfalls angehen will. So sollen in Zukunft Änderungsgesetze zusammen mit Synopsen veröffentlicht werden. Über diese Wahrnehmung des Problems und diese Pläne zur Lösung freuen wir uns. Im Optimalfall wird unser Projekt somit in Zukunft überflüssig sein. Allerdings ist die Art und Maschinenlesbarkeit der Veröffentlichung sowie auch der Zeitplan für die Umsetzung bisher noch unklar. Zudem ist auch nicht klar, zu welchem Zeitpunkt im Gesetzgebungsprozess die Synopse veröffentlicht werden soll. Wir gehen also davon aus, dass weiterhin Bedarf für die systematische, maschinelle Verarbeitung von Änderungsgesetzen und leicht zugängliche Synopsen besteht.
 
-Aktuell ist Law in Progress als beta-Version online verfügbar und wird auch nach Ende des Förderzeitraums weiterentwickelt. Teile der Komplexität von Änderungsgesetzen werden aktuell noch nicht ausreichend abgebildet, was eine Weiterentwicklung nötig macht. Auch im Bereich UI/UX sind Verbesserungen notwendig und hier hoffen wir mittelfristig auf Unterstützung aus der Community.
+Wir sehen bereits, dass auch einzelne Komponenten der Software jenseits der Erstellung von Synopsen für sich allein schon nützlich sein können. Aktuell bietet der Aufbau des Tools nur den Zugang über das Web-Frontend und über ein Skript. Dort steht jeweils nur der Ende-zu-Ende-Prozess von Änderungsgesetz zu geänderter Gesetzesversion zur Verfügung. In nächsten Schritten soll das Backend modularer als Pythonpackage strukturiert werden und darüber zum Beispiel direkten Zugang zum Parsen von Änderungsgesetzen und Anwenden von Änderungsbefehlen auf bestehende Gesetze bieten. Damit wird das Tool interessanter und nützlicher für Forschende und Datenjournalist\*innen mit Programmiererfahrung.
 
-Auch das Backend soll weiterentwickelt werden, um eine größere Anzahl von Anwendungen abzubilden. So bietet der derzeitige Aufbau des Tools nur den Zugang über das Web-Frontend und über ein Skript. Dort steht jeweils nur der Ende-zu-Ende-Prozess von Änderungsgesetz zu geänderter Gesetzesversion zur Verfügung.
-
-Wir sehen allerdings, dass auch einzelne Komponenten der Software für sich allein schon nützlich sind. So soll das Backend modularer als Pythonpackage strukturiert werden und darüber zum Beispiel Zugang zum Parsen von Änderungsgesetzen und Anwenden von Änderungsbefehlen auf bestehende Gesetze bieten. Damit wird das Tool interessanter und nützlicher für Forschende und Datenjournalist\*innen mit Programmiererfahrung.
+Aktuell ist die Web-App Law in Progress als beta-Version online verfügbar und wird auch nach Ende des Förderzeitraums weiter betrieben und entwickelt. Teile der Komplexität von Änderungsgesetzen werden aktuell noch nicht ausreichend abgebildet, was eine Weiterentwicklung nötig macht. Auch im Bereich UI und Design sind Verbesserungen notwendig. Darüberhinaus sind wir immer auf der Suche nach weiteren Anwendungsfällen für das Projekt. Solltest du also zur Entwicklung beitragen wollen und/oder die Software verwenden wollen, wende dich gerne per [E-Mail](mailto: hello@lawinprogress.de) an uns.
 
 Wir bedanken uns herzlich beim Bundesministerium für Bildung und Forschung sowie beim Projektträger DLR und dem Prototype Fund.
 
 ## Links
 
 - Source code unter MIT Lizenz: [https://gitlab.com/nototast/lawinprogress/](https://gitlab.com/nototast/lawinprogress/)
-- Demo: [app.lawinprogress.de](app.lawinprogress.de)
-- Website: [lawinprogress.de](lawinprogress.de)
+- Demo: [app.lawinprogress.de](http://app.lawinprogress.de)
+- Website: [lawinprogress.de](https://lawinprogress.de)

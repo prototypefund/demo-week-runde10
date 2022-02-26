@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Timber Computer"
-image: /assets/images/project_images/timber-computer/header.png
+image: /assets/images/project_images/timber-computer/header.jpg
 authors:
   - author: Martin Bittmann
     link:

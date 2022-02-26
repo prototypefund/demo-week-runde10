@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Genderly"
-image: /assets/images/project_images/genderly/header.png
+image: /assets/images/project_images/genderly/header.jpg
 authors:
   - author: pajowu
     link: https://twitter.com/pajowu
@@ -16,6 +16,10 @@ summary: "Genderly erkennt automatisch, welche Wörter in einem Text noch gegend
 ---
 
 Genderly kann unter [https://gendern.jetzt](https://gendern.jetzt) ausprobiert werden.
+
+<div class="iframe-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/vQz4zf55u48" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Danke
 

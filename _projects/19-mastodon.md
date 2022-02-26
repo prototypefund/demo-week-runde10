@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Mastodon"
-image: /assets/images/project_images/mastodon/header.png
+image: /assets/images/project_images/mastodon/header.jpg
 authors:
   - author: Eugen Rochko
     link: https://mastodon.social/@Gargron

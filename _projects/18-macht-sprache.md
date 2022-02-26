@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "macht.sprache. - für inklusives und diskriminierungsfreies Übersetzen"
-image: /assets/images/project_images/macht-sprache/header.png
+image: /assets/images/project_images/macht-sprache/header.jpg
 authors:
   - author: Lucy Gasser
     link: 
@@ -14,6 +14,10 @@ authors:
 brief: "Wir fördern inklusive und diskriminierungsfreie Übersetzung."
 summary: "Das macht.sprache. Übersetzungstool hat eine Integration mit Google Translate bekommen und unterstützt nun verstärkt gendersensibles Übersetzen."
 ---
+
+<div class="iframe-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/dz-fKyZxAVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Diskriminierung ist in Sprache eingebettet. Sprache beeinflusst die Art und Weise, wie wir über Fragen von _Race_, Geschlecht, Sexualität, Zugehörigkeit, usw. denken und sprechen. Es ist schon herausfordernd, solche Mechanismen in einer Sprache zu verstehen, selbst wenn es die eigene Muttersprache ist. Noch komplizierter wird es für diejenigen, die sprachübergreifend arbeiten, was in unserer globalisierten Welt zunehmend der Fall ist. In vielen Berufen und Alltagstätigkeiten ist es normal geworden, digitale Übersetzungshilfen zu nutzen, aber natürlich haben diese Tools ihre Grenzen. Diese Herausforderungen nahmen wir - Lucy Gasser, Anna von Rath, Kolja Lange und Timur Çelikel - zum Anlass, macht.sprache zu entwickeln.
 

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Briar Desktop"
-image: /assets/images/project_images/briar-desktop/header.png
+image: /assets/images/project_images/briar-desktop/header.jpg
 authors:
   - author: Mo Zielinski
     link: 

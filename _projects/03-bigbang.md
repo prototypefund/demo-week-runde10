@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "BigBang"
-image: /assets/images/project_images/bigbang/header.png
+image: /assets/images/project_images/bigbang/header.jpg
 authors:
   - author: Christoph Becker
     link: https://christovis.github.io/
