@@ -17,7 +17,7 @@ summary: "A 1000 channels ist ein Softwareprojekt, in dem wir seit September 202
 
 Seit September 2021 entwickeln wir eine Mappingplattform, mit der queere Narrationen leicht zugänglich auf einer Karte visualisiert und veröffentlicht werden können.
 
-Die vielfältigen sozialen und politischen Aktivitäten queerer Menschen sind meist flüchtig, temporär und kein selbstverständlicher Teil des öffentlichen Bildes einer Stadt. Mit _A 1000 Channels_ ist eine Plattform entstanden, die queeren Akteur\*innen, Gruppen, Projekten eine Möglichkeit bietet, von diesen Räumen und Ereignissen zu berichten und sie sichtbar zu machen.
+Die vielfältigen sozialen und politischen Aktivitäten queerer Menschen sind meist flüchtig, temporär und kein selbstverständlicher Teil des öffentlichen Bildes einer Stadt. Mit _[A 1000 Channels](https://www.a-thousand-channels.xyz/)_ ist eine Plattform entstanden, die queeren Akteur\*innen, Gruppen, Projekten eine Möglichkeit bietet, von diesen Räumen und Ereignissen zu berichten und sie sichtbar zu machen.
 
 Wir haben dabei versucht, den Prozess des Mappings aus einer queeren Perspektive zu betrachten. Grundlage war die Idee, die Darstellung einer Navigations- oder Straßenkarte zu vermeiden, sondern sie in einer reduzierten Form zu gestalten, so daß sie den Fokus auf das Zusammenspiel von bestimmten Orten und den Menschen, die diese beschreiben, setzt.
 
@@ -25,9 +25,9 @@ So gibt es mit unserer Plattform die Möglichkeit, Beziehungen – Relations –
 
 Mit unserer Plattform wollen wir einen Werkzeugkasten anbieten, der auch ohne besonderes technisches Wissen angewendet werden kann. Als Ergebnis des Mappings gibt es einen Webclient, um die Karte öffentlich nutzen zu können. Ein weiterer Fokus war die Implementierung von Funktionen zum Schutz der Privatsphäre. Eine Map-to-go Funktion erlaubt die Veröffentlichung des Mappings auf der eigenen Website.
 
-Wir sind superhappy, dass wir im Entwicklungsprozess verschiedene Mappings integrieren konnten. Dabei wurden unsere "Baustelle" für das Kartieren eingesetzt, entwickelte Features erprobt und neue Bedürfnisse formuliert, während wir mit dem Feedback aus diesen Anwendungen unser Projekt verbessern und weiterentwickeln konnten.
+Wir sind sehr happy, dass wir im Entwicklungsprozess [erste Mappings](https://www.a-thousand-channels.xyz/#references) integrieren konnten. Dabei wurden unsere "Baustelle" für das Kartieren queerer Themen eingesetzt, entwickelte Features erprobt und neue Bedürfnisse formuliert, während wir mit dem Feedback aus diesen Anwendungen unser Projekt verbessern und weiterentwickeln konnten.
 
-Unseren [Design- und Entwicklungsprozess](https://www.are.na/a-thousand-channels) haben wir in einem Arena-Channel dokumentiert.
+Unseren [Design- und Entwicklungsprozess haben wir in einem Are.na-Channel](https://www.are.na/a-thousand-channels/project-progress) dokumentiert.
 
 ![Scribble für ds Userinterface des Webclients](/assets/images/project_images/a-thousand-channels/a1000c-client-scribble.jpg)
 
@@ -85,17 +85,16 @@ Anders gesagt: Ohne viele Vorkenntnisse kann eine Karte erstellt werden; mit meh
 
 ### Background 🏙
 
-Kurz zu den verwendeten Technologien und Programmen, die alle Freie und Open Source Software sind :)
+Kurz zu den verwendeten Technologien und Programmen, die Freie und Open Source Software sind :)
 
 - QGIS, ein desktopbasiertes Geografisches Informationssystem zur Erzeugung der Kartenhintergründe
 - Leaflet, ein Javascript-basiertes Framework zur Erstellung der Webkarten
 - Inkscape für die Erstellung oder Bearbeitung von Icons und Grafiken
-- Ruby on Rails für das Backend, Tests mit RSpec + Capybara
-- Nuxt und TailwindCSS für den Client, Test mit Cypress
+- Ruby on Rails + Foundation für das Backend, Tests mit RSpec + Capybara
+- NuxtJS und TailwindCSS für den Client, Tests mit Cypress.io
 
-> [Unsere Karten basieren auf der Mercator-Projektion](<https://github.com/a-thousand-channels/ORTE-backend/wiki/Why-we-(still)-use-the-Mercator-projection-%F0%9F%97%BA%EF%B8%8F>). Aus unserer Sicht stellt sie eine problematische und vermeidenswerte Form der Projektion dar. Mit ihr wird der globale Norden stark vergrößert dargestellt; diese Verzerrungen unterstützen eine eurozentristische Sicht auf die Welt.
-
-> Wir konnten in dem von uns verwendeten Technologie-Stack nicht auf eine alternative Projektion umstellen. Es gibt aber Anzeichen dafür, dass es hier bald technologische Verbesserungen geben wird (kommerzielle GIS-Anbieter haben in der letzten Zeit entsprechende praxis-taugliche Alternativen entwickelt). Wir werden die Entwicklung für freie Werkzeuge beobachten und falls es uns möglich ist, werden wir diese auch unterstützen und implementieren.
+<sub>Unsere Karten basieren auf der [Mercator-Projektion](<https://github.com/a-thousand-channels/ORTE-backend/wiki/Why-we-(still)-use-the-Mercator-projection-%F0%9F%97%BA%EF%B8%8F>). Aus unserer Sicht stellt sie eine problematische und vermeidenswerte Form der Projektion dar. Mit ihr wird der globale Norden stark vergrößert dargestellt; diese Verzerrungen unterstützen eine eurozentristische Sicht auf die Welt.<br />
+Wir konnten in dem von uns verwendeten Technologie-Stack von der Erzeugung der Kartenhintegründe bis zur Webkarte (noch) nicht auf eine Projektion umstellen, die dieses Problem vermeidet, dieser Aspekt steht aber auf unserer TODO Liste.</sub>
 
 ### Wie weiter? (Ein Ausblick) 🚀
 
@@ -103,13 +102,13 @@ Wir holen jetzt einmal tief Luft und basteln bestimmt noch an ein paar Ecken wei
 
 Wir werden versuchen, unser Projekt zu verstetigen, damit diese Plattform auch längerfristig erhalten und ausgebaut werden kann.
 
-Daher würden wir uns sehr über praktische oder auch finanzielle Unterstützung freuen, die uns hilft, das Projekt nachhaltig zu entwickeln.
+Daher würden wir uns sehr über praktische Mithilfe, Feedback oder auch finanzielle Unterstützung freuen, die uns hilft, das Projekt nachhaltig zu entwickeln.
 
 ![AthousandchannelsHintergrund](/assets/images/project_images/a-thousand-channels/AthousandchannelsHintergrund.jpg)
 
 ### Danke! 🎊
 
-Besonderen Dank für Begleitung, Unterstützung und Feedback: Pau* Schwer, Uxía Iglesias, Abdulghaffar Tammaa, Nina Siessegger (für den Crashkurs in gitbasierter Projektentwicklung), Ngọc Triệu von Simply Secure, Thomas Tröster, Sebastian Fuchs, Garabatos Atelier, die Arbeitsgruppe "Queer narratives, mapped", Marie Gutbub und dem Prototype Fund sowie unsere Ansprechpersonen beim DLR Projektträger.
+Besonderen Dank für Begleitung, Unterstützung und Feedback: Pau* Schwer, Uxía Iglesias, Abdulghaffar Tammaa, Nina Siessegger, Ngọc Triệu von Simply Secure, Thomas Tröster, Sebastian Fuchs, Garabatos Atelier, die Arbeitsgruppe "Queer narratives, mapped", city/data/explosion, Marie Gutbub und dem Prototype Fund sowie unsere Ansprechpersonen beim DLR Projektträger.
 
 Wir bedanken uns für die Förderung unseres Projekts beim Bundesministerium für Forschung und Bildung (BMBF).
 
