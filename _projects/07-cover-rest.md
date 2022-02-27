@@ -3,12 +3,14 @@ layout: project
 title: "Cover-REST"
 image: /assets/images/project_images/cover-rest/header.jpg
 authors:
-  - author: Linus Behrens
-    link: 
+  - author: Cover-REST Projekt
+    link: https://cover-rest.gitlab.io/
   - author: Thorsten Behrens
-    link:
+    link: https://de.linkedin.com/in/thorsten-behrens-4b100417
   - author: Urs Svante Schubert
-    link: 
+    link: https://www.linkedin.com/in/svante-schubert-2913232/
+  - author: Linus Behrens
+    link: https://github.com/Lin2D2
 brief: "Wir automatisieren das Finden von Features im Quellcode."
 summary: "Du willst ein Feature implementieren, weisst aber nicht wo sich der Code versteckt? Cover-REST hilft Dir, die relevanten Stellen aus Millionen Zeilen Quelltext zu finden."
 ---
