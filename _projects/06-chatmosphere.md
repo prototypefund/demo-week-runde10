@@ -9,7 +9,7 @@ authors:
     link: https://www.linkedin.com/in/anke-riemer-09371a76/
   - author: Christian Ivanis
     link: http://christianivanis.com/
-brief: "Wir erweitern Chatmosphere für große Gruppen und machen es stabiler."
+brief: "Wir erweitern Chatmosphere für Video-Chats in großen Gruppen und machen es stabiler."
 summary: "Wir haben neue Features für die Kommunikation in großen Gruppen in Chatmosphere entwickelt, dazu eine session-übergreifende Architektur entworfen und eine Testumgebung bereit gestellt um die Serverlast zu evaluieren."
 ---
 
@@ -63,7 +63,7 @@ Nach Designsprint und Exploration der technischen Limitierungen haben wir uns f�
 
 Um den selbstorganisierenden und dezentralen Charakter von Chatmosphere zu erhalten, ist hierbei wichtig, dass diese Aktionen nicht nur von einer Person gesteuert werden. Beispielsweise können Teilnehmer:innen die Speak-to-all-Ansicht minimieren, wenn sie lieber im kleinen Gruppengespräch bleiben wollen.
 
-Die Architektur der Features_Speak-to-all,_ als auch _Screenshare_ und _Chat_ ist so angelegt, dass zukünftig eine Übertragung auch auf mehrere parallel laufende Chatmosphere-Sessions möglich ist. Auch wenn wir uns in Anbetracht der Zeit dafür entschieden haben, zuerst die vergemeinschaftenden Kommunikationstools in einer Session zu entwickeln, ist diese Ausbaustufe schon angedacht.
+Die Architektur der Features _Speak-to-all_, als auch _Screenshare_ und _Chat_ ist so angelegt, dass zukünftig eine Übertragung auch auf mehrere parallel laufende Chatmosphere-Sessions möglich ist. Auch wenn wir uns in Anbetracht der Zeit dafür entschieden haben, zuerst die vergemeinschaftenden Kommunikationstools in einer Session zu entwickeln, ist diese Ausbaustufe schon angedacht.
 
 Die Designkonzepte zeigen diese Überlegungen und Platzhalter für zusätzliche Funktionselemente wie Einstellungen, Teilnehmer:innenliste und vieles mehr.
 
@@ -97,6 +97,6 @@ War Chatmopshere 1.0 ein Interaktionsprototyp, so ist Chatmosphere 2.0 ein Infra
   
 Vielen Dank an das Bundesministerium für Bildung und Forschung, dass dieses Format möglich gemacht hat und Danke an das Team des Prototype-Funds und des Deutschen Zentrums für Luft- und Raumfahrt für die emotionale, fachliche und administrative Unterstützung.
 
-Bleibt gesund und trefft euch mit euren Freunden in [Chatmosphere](https://app.chatmosphere.cc/) 
+Bleibt gesund und trefft euch mit euren Freunden in [Chatmosphere](https://chatmosphere.cc/) 
 
 
