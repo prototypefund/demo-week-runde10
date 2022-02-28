@@ -11,7 +11,7 @@ summary: "A 1000 channels ist ein Softwareprojekt, in dem wir seit September 202
 
 ## A Thousand Channels – eine queere 🏳️‍🌈 Mapping 🌎 Plattform 🎁
 
-![Screenshot eines Whiteboards zur Ideenfindung des Projekts](/assets/images/project_images/a-thousand-channels/original.jpg)
+![Screenshot eines Whiteboards zur Ideenfindung des Projekts](/assets/images/project_images/a-thousand-channels/original.png)
 
 ### Ein digitales Angebot um queere Geschichten zu kartieren 🧶
 
@@ -23,6 +23,8 @@ Wir haben dabei versucht, den Prozess des Mappings aus einer queeren Perspektive
 
 So gibt es mit unserer Plattform die Möglichkeit, Beziehungen – Relations – zwischen Orten zu visualisieren und so Bewegungen, Verdichtungen und andere, manchmal nur temporäre und subjektive Beziehungen darstellbar zu machen. Auch die Anreicherungen eines Ortes durch verschiedene Perspektiven – wir haben sie Annotations genannt – soll die Vielschichtigkeit in der Wahrnehmung von Orten und Ereignissen wiedergeben.
 
+![Animation eines Prototypen für die Visualisierung von Beziehung zwischen Orten](/assets/images/project_images/a-thousand-channels/original.gif)
+
 Mit unserer Plattform wollen wir einen Werkzeugkasten anbieten, der auch ohne besonderes technisches Wissen angewendet werden kann. Als Ergebnis des Mappings gibt es einen Webclient, um die Karte öffentlich nutzen zu können. Ein weiterer Fokus war die Implementierung von Funktionen zum Schutz der Privatsphäre. Eine Map-to-go Funktion erlaubt die Veröffentlichung des Mappings auf der eigenen Website.
 
 Wir sind sehr happy, dass wir im Entwicklungsprozess [erste Mappings](https://www.a-thousand-channels.xyz/#references) integrieren konnten. Dabei wurden unsere "Baustelle" für das Kartieren queerer Themen eingesetzt, entwickelte Features erprobt und neue Bedürfnisse formuliert, während wir mit dem Feedback aus diesen Anwendungen unser Projekt verbessern und weiterentwickeln konnten.
@@ -31,7 +33,6 @@ Unseren [Design- und Entwicklungsprozess haben wir in einem Are.na-Channel](http
 
 ![Scribble für ds Userinterface des Webclients](/assets/images/project_images/a-thousand-channels/a1000c-client-scribble.jpg)
 
-![Animation eines Prototypen für die Visualisierung von Beziehung zwischen Orten](/assets/images/project_images/a-thousand-channels/original.gif)
 
 ### Ein Baukasten 🔧
 
@@ -46,8 +47,6 @@ In einem begleitenden Wiki werden grundlegende Schritte der Benutzung erklärt.
 
 Die technische Entwicklung haben wir durch Tools wie Rspec, Capybara, Cypress, Rubocop begleitet und stabilisiert.
 
-![Scribble für die Userinterface-Erweiterung des ORTE Backends](/assets/images/project_images/a-thousand-channels/a1000c-maptogo-scribble.jpg)
-
 <video src="/assets/images/project_images/a-thousand-channels/orte.mp4" autoplay controls muted loop width=800></video>
 
 ### Webclient 📱
@@ -60,8 +59,6 @@ Das Ergebnis ist mobile-first, die Views lassen sich durch Swipes, Tastatur oder
 ### Datenschutz 🤭
 
 Wir haben mehrere Datenschutz-Funktionen in das Backend implementiert, u.a. eine Rasterfunktion, die die Verfremdung von Bilder erlaubt, die automatische Entfernung von Metadaten aus Bildern sowie eine experimentelle Funktion zur Verschleierung von Geodaten (etwa um die Lokalisierung von sensiblen Orten zu erschweren).
-
-![Beispiel für die Rasterung eines Fotos, hier jeweils ein Foto und davor die gerasterte Version](/assets/images/project_images/a-thousand-channels/a1000c--backend-rasterizing2.gif)
 
 ![Screenshot mit der Option die Privacy-Features zu aktivieren](/assets/images/project_images/a-thousand-channels/a1000c--backend-privacy-features.jpg)
 
@@ -93,8 +90,8 @@ Kurz zu den verwendeten Technologien und Programmen, die Freie und Open Source S
 - Ruby on Rails + Foundation für das Backend, Tests mit RSpec + Capybara
 - NuxtJS und TailwindCSS für den Client, Tests mit Cypress.io
 
-<sub>Unsere Karten basieren auf der [Mercator-Projektion](<https://github.com/a-thousand-channels/ORTE-backend/wiki/Why-we-(still)-use-the-Mercator-projection-%F0%9F%97%BA%EF%B8%8F>). Aus unserer Sicht stellt sie eine problematische und vermeidenswerte Form der Projektion dar. Mit ihr wird der globale Norden stark vergrößert dargestellt; diese Verzerrungen unterstützen eine eurozentristische Sicht auf die Welt.<br />
-Wir konnten in dem von uns verwendeten Technologie-Stack von der Erzeugung der Kartenhintegründe bis zur Webkarte (noch) nicht auf eine Projektion umstellen, die dieses Problem vermeidet, dieser Aspekt steht aber auf unserer TODO Liste.</sub>
+<sub>Wie die allermeisten web-basierten Karten so basieren auch unsere auf der Mercator-Projektion. Aus unserer Sicht stellt sie eine problematische und vermeidenswerte Form der Projektion dar. Mit ihr wird der globale Norden stark vergrößert dargestellt; diese Verzerrungen unterstützen eine eurozentristische Sicht auf die Welt.<br />
+Wir konnten in dem von uns verwendeten Technologie-Stack von der Erzeugung der Kartenhintergründe bis zur Webkarte (noch) nicht auf eine Projektion umstellen, die dieses Problem vermeidet, dieser Aspekt steht aber auf unserer TODO Liste.</sub>
 
 ### Wie weiter? (Ein Ausblick) 🚀
 
