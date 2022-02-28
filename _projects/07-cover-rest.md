@@ -19,6 +19,8 @@ summary: "Du willst ein Feature implementieren, weisst aber nicht wo sich der Co
     <iframe src="https://www.youtube-nocookie.com/embed/vDa7Vd_HnOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Cover-REST ermöglicht das einfache Auffinden von Code in großen Projekten
+
 COVER-REST ist ein Projekt, welches das Auffinden von Codestellen vereinfachen will - gleichsam wie eine Karten-App fürs Handy, aber zur Navigation im Quelltext.
 
 Wir nutzen dafür sogenannte Coverage-Analysen - das sind Aufzeichnungen des Programmflusses beim Verarbeiten von Testdaten.
