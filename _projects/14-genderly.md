@@ -6,11 +6,9 @@ authors:
   - author: pajowu
     link: https://twitter.com/pajowu
   - author: Charlotte
-    link: [Hier kann ein Link hin]
   - author: Philipp
     link: https://twitter.com/ockhamscs
   - author: Felix
-    link: [Hier kann ein Link hin]
 brief: "Wir vereinfachen gendern im geschriebenen Text."
 summary: "Genderly erkennt automatisch, welche Wörter in einem Text noch gegendert werden sollten."
 ---
