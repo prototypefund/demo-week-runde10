@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "macht.sprache. - für inklusives und diskriminierungsfreies Übersetzen"
-image: /assets/images/project_images/macht-sprache/header.jpg
+image: /assets/images/project_images/macht-sprache/header.png
 authors:
   - author: Lucy Gasser
     link: 
@@ -21,7 +21,7 @@ summary: "Das macht.sprache. Übersetzungstool hat eine Integration mit Google T
 
 Diskriminierung ist in Sprache eingebettet. Sprache beeinflusst die Art und Weise, wie wir über Fragen von _Race_, Geschlecht, Sexualität, Zugehörigkeit, usw. denken und sprechen. Es ist schon herausfordernd, solche Mechanismen in einer Sprache zu verstehen, selbst wenn es die eigene Muttersprache ist. Noch komplizierter wird es für diejenigen, die sprachübergreifend arbeiten, was in unserer globalisierten Welt zunehmend der Fall ist. In vielen Berufen und Alltagstätigkeiten ist es normal geworden, digitale Übersetzungshilfen zu nutzen, aber natürlich haben diese Tools ihre Grenzen. Diese Herausforderungen nahmen wir - Lucy Gasser, Anna von Rath, Kolja Lange und Timur Çelikel - zum Anlass, macht.sprache zu entwickeln.
 
-macht.sprache. ist eine Web-App, die das Ziel hat, politisch sensibles Übersetzen zwischen Deutsch und Englisch zu fördern. Nutzer:innen erhalten auf [macht.sprache.](https://www.machtsprache.de) bereits vielfältige Unterstützung: macht.sprache. ist eine **Diskussionsplattform**, auf der politisch sensible Begriffe, ihre Übersetzungen und Übersetzungsbeispiele gesammelt und diskutiert werden können. Ein **Text Checker** überprüft Textausschnitte von Nutzer:innen auf sensible Begriffe. Zusätzlich bietet ein begleitendes **Manifest** nützliche Grundprinzipien und Leitlinien für politisch sensibles Übersetzen. Mithilfe des Prototype Fund konnten wir außerdem eine Integration mit der gängigen Übersetzungswebsite Google Translate entwickeln. macht.sprache. kann als **Browsererweiterung** auf dieser Seite aktiviert werden und somit weitaus mehr Nutzer:innen erreichen.
+macht.sprache. ist eine Web-App, die das Ziel hat, politisch sensibles Übersetzen zwischen Deutsch und Englisch zu fördern. Nutzer:innen erhalten auf [macht.sprache.](https://www.machtsprache.de) bereits vielfältige Unterstützung: macht.sprache. ist eine **Diskussionsplattform**, auf der politisch sensible Begriffe, ihre Übersetzungen und Übersetzungsbeispiele gesammelt und diskutiert werden können. Ein **Text Checker** überprüft Textausschnitte von Nutzer:innen auf sensible Begriffe. Zusätzlich bietet ein begleitendes **Manifest** nützliche Grundprinzipien und Leitlinien für politisch sensibles Übersetzen. Mithilfe des Prototype Fund konnten wir außerdem eine Integration mit der gängigen Übersetzungswebsite Google Translate entwickeln. macht.sprache. kann als **Browsererweiterung** auf dieser Seite aktiviert werden und somit weitaus mehr Nutzer:innen erreichen. Die Erweiterung kann unter [machtsprache.de/extension](https://www.machtsprache.de/extension) heruntergeladen werden.
 
 ### Der Text Checker
 
@@ -42,6 +42,8 @@ Neben den Begriffen aus unserer Datenbank werden mittels Natural Language Proces
 ### Technische Umsetzung der Erweiterung
 
 Nutzer:innen können sich die Erweiterung über den Chrome Web Store installieren. Die Erweiterung für den Browser ist ein JavaScript-Programm, in unserem Fall geschrieben in TypeScript. Wenn die Webseite [translate.google.com](https://translate.google.com) aufgerufen wird, lädt der Browser unsere Erweiterung und wir können die Webseite manipulieren. Mittels eines Mutation Observers überwachen wir, wann sich die Elemente im DOM ändern. Wenn es ein unterstütztes Sprachpaar (DE-EN und EN-DE) gibt, schicken wir eine Anfrage an unseren Server und blenden die Hinweise ein. Die in Google Translate angezeigte Übersetzung wird mit der Datenbank von macht.sprache. abgeglichen. Hinweise zu Gender werden immer angezeigt, wenn das Natural Language Processing feststellt, dass es sich um eine Personenbezeichnung handelt.
+
+![Screenshot der Browsererweiterung](/assets/images/project_images/macht-sprache/screenshot-erweiterung.png)
 
 Eine besondere Herausforderung ist, einerseits unsere Komponenten einzusetzen, ohne die Funktionalität von Google Translate zu behindern und andererseits unsere Komponenten neu einzufügen, wenn das JavaScript von Google Translate Elemente neu rendert. Um zu verhindern, dass Google Translate aufgrund unserer Intervention abstürzt, zeigt die macht.sprache.-Erweiterung die hervorgehobenen Begriffen technisch in einem Overlay an: Wir kopieren den Text sowie die CSS-Klassen bzw. Stile von Google Translate, positionieren dieses über dem Original von Google Translate und erweitern es um die Hervorhebungen. Der Text in dem Overlay ist transparent und die Pointer Events sind entfernt, nur die Hervorhebungen sind sicht- und klickbar.
 
