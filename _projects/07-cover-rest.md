@@ -32,3 +32,14 @@ Machen wir das zweimal - einmal mit Daten, welche ein bestimmtes Feature enthalt
 Unser erster Demo-Anwendungsfall hierfür ist das LibreOffice-Projekt, welches mit insgesamt über 10 Millionen Zeilen Code dringend modernes Kartenmaterial benötigt.
 
 
+## Danksagung
+
+Wir danken dem Prototype Fund für die Förderung, welche uns erst
+ermöglicht hat, mit dem notwendigen Fokus an diesem Projekt zu
+arbeiten. Wir hoffen, damit in Zukunft vielen Entwicklern das Leben zu erleichtern!
+
+Soundtrack Video:
+
+> Brush Strokes by texasradiofish (c) copyright 2022  
+> Licensed under a Creative Commons Attribution Noncommercial (3.0) license. http://dig.ccmixter.org/files/texasradiofish/64682  
+> Ft: billraydrums  
