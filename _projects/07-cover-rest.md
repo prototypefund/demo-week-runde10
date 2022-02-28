@@ -32,6 +32,25 @@ Machen wir das zweimal - einmal mit Daten, welche ein bestimmtes Feature enthalt
 Unser erster Demo-Anwendungsfall hierfür ist das LibreOffice-Projekt, welches mit insgesamt über 10 Millionen Zeilen Code dringend modernes Kartenmaterial benötigt.
 
 
+## Von der Idee zum Prototypen
+
+Über die Projektlaufzeit haben wir in mehreren Iterationsschritten und
+nach Sichtung von bestehenden Lösungen einen Prototypen basierend auf
+der [Jenkins-CI-Plattform](https://www.jenkins.io/) aufgesetzt.
+
+Damit konnten wir mit vertretbarem Aufwand unsere Annahmen validieren,
+und gleichzeitig für das LibreOffice-Projekt eine konkrete
+Implementierung schaffen (da LibreOffice ohnehin [Jenkins als CI](https://ci.libreoffice.org/)
+verwendet).
+
+Bisher erreicht haben wir:
+* die automatische Generierung von Feature-Testdateien mit dem [OFD Toolkit](https://github.com/tdf/odftoolkit/tree/coverage/odfdom/src/test/resources/test-input)
+* die Generierung von Coverage-Analysen in Python, Java und C++, sowie
+  die Konversion in ein einheitliches Dateiformat
+* die Differenzberechnung der Coverage aus orthogonalen Einzelfeatures
+* die Visualisierung des Ergebnis-Diffs im Rahmen der Jenkins-CodeCoverage-API
+
+
 ## Links
 
 * [Projekt-Homepage](https://cover-rest.gitlab.io/)
