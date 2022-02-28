@@ -13,7 +13,7 @@ brief: "Wir ermöglichen Streaming, Aufnahme und Export für Open Source-Videol�
 summary: "Mit Easyvideo entwickeln wir Plugins für Server, und Skripte, um Aufnahme- und Export-Funktionen in BBB und Jitsi nachzurüsten und den Endnutzer\\*innen zur Verfügung zu stellen."
 ---
 
-# Easyvideo: Wir ermöglichen Streaming, Aufnahme und Export für Open-Source-Videolösungen.
+# Easyvideo: Wir ermöglichen Streaming, Aufnahme und Export für Open-Source-Videolösungen
 
 Unser Team organisiert seit Jahren Meetups, Konferenzen und veranstaltet Seminare an Universitäten. Nicht erst seit Corona benutzen wir dafür auch Online-Videotools, wie BigBlueButton oder Jitsi. Leider fehlen populären Open-Source-Videolösungen Streamingoptionen und Exportfunktionen von Aufnahmen ganz wie bei BigBlueButton oder Aufnahmen sind nur mit proprietären Anbietern möglich, z.B. Jitsi mit Youtube und Dropbox. Für die freie Dokumentation von Events und Lehrveranstaltungen ist das ein Problem. Während Corona wurden Tools wie OBS populär, die Aufnahmen direkt auf dem Computer ermöglichen. Zudem gab es Hacks, die von verschiedenen Entwicklern ins Netz gestellt wurden und einzelne Funktionen anboten, oft jedoch nicht für eine größere Nutzergruppe weiterentwickelt wurden. Unser Ziel für das Projekt ist es nun auf Grundlage der Arbeit in der Open-Source-Community Videoexportfunktionen für die zwei bekanntesten Lösungen BigBlueButton und Jitsi zu entwickeln.
 
@@ -66,7 +66,7 @@ Wir haben die Möglichkeiten der verbesserten Unterstützung des Open-Source-Vid
 
 Bei der Entwicklung haben wir Nutzerfeedback für Verbesserungen erhalten, die wir in Zukunft angehen wollen. Erstens bei BBB wollen wir mit dem Projektteam die direkte Integration unseres Projekts diskutieren, um die Benutzerfreundlichkeit zu erhöhen. Zudem wollen wir hier neben den Webformaten, weitere Exportformate unterstützen. Zweitens bei Jitsi sind für das Funktionieren des Videoexports zusätzliche Änderungen beim Counterpart Nextcloud notwendig. Danach können wir mit den Jitsi-Entwicklern kooperieren um Änderungen in das Hauptprojekt einzupflegen. Drittens gibt es noch viele weitere Open-Source-Videoprojekte, die von Exportmöglichkeiten profitieren würden, wie zum Beispiel Jangouts, an denen wir gerne arbeiten würden. Wir freuen uns auf eine spannende Zukunft und viele Mitstreiter!
 
-Ohne die großartige Unterstützung des Teams beim Prototype Fundm des BMBF und DLR wäre die Entwicklung nicht möglich gewesen. Die Förderung war eine tolle Möglichkeit an dem Projekt zu arbeiten. Vielen Dank allen die das Projekt möglich gemacht haben!
+Ohne die großartige Unterstützung des Teams vom Prototype Fund, vom BMBF und DLR wäre die Entwicklung nicht möglich gewesen. Die Förderung war eine tolle Möglichkeit an dem Projekt zu arbeiten. Vielen Dank allen die das Projekt möglich gemacht haben!
 
 
 ## Links
