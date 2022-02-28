@@ -32,6 +32,14 @@ Machen wir das zweimal - einmal mit Daten, welche ein bestimmtes Feature enthalt
 Unser erster Demo-Anwendungsfall hierfür ist das LibreOffice-Projekt, welches mit insgesamt über 10 Millionen Zeilen Code dringend modernes Kartenmaterial benötigt.
 
 
+## Links
+
+* [Projekt-Homepage](https://cover-rest.gitlab.io/)
+* [Demo-Instanz](https://coverrest.allotropia.de/) für das LibreOffice-Projekt
+* [Präsentation](https://fosdem.org/2022/schedule/event/lotech_improvedcoverage/) „Improved coverage analysis for LibreOffice's CI“ auf der FOSDEM 2022
+* [Code-Repos](https://gitlab.com/cover-rest)
+
+
 ## Danksagung
 
 Wir danken dem Prototype Fund für die Förderung, welche uns erst
