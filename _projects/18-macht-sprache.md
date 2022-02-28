@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "macht.sprache. - für inklusives und diskriminierungsfreies Übersetzen"
-image: /assets/images/project_images/macht-sprache/header.jpg
+image: /assets/images/project_images/macht-sprache/header.png
 authors:
   - author: Lucy Gasser
     link: 
