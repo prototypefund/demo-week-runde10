@@ -5,7 +5,7 @@ image: /assets/images/project_images/audapolis/header.jpg
 authors:
   - author: pajowu
     link: https://twitter.com/pajowu
-  - author: Jaro
+  - author: anuejn
     link: https://github.com/anuejn
 brief: "Wir bauen eine Desktop-Software für Audio-Schnitt des gesprochenen Wortes."
 summary: "Mit audapolis wird Audio- und Video-Schnitt so einfach wie das Bearbeiten eines Text-Dokuments."
@@ -24,7 +24,9 @@ Das funktioniert dann ähnlich wie in einem Textverarbeitungsprogramm. Wörter l
 
 Doch am einfachsten wird das verständlich, wenn wir uns die Funktionsweise von audapolis an einem konkreten Beispiel angucken. Im folgenden Video haben wir dafür eine kleine Demo aufgenommen.
 
-[Video-Embed, der direkt zur Demo springt 57s]
+<div class="iframe-container">
+    <iframe src="https://www.youtube.com/embed/GF3ov-tlh-I?start=58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Mit audapolis kann Audio und Video einfacher und mit geringerem Zeitaufwand geschnitten werden – ein Gewinn für die Produktion von Interview-Formaten, Podcasts oder Radiobeiträgen. Wir hoffen, dass Audapolis Medienschaffenden nervige Handarbeit erleichtert und ihnen hilft, beim Schneiden besser den Überblick zu behalten.
 
