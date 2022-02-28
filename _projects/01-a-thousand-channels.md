@@ -35,7 +35,7 @@ Unseren [Design- und Entwicklungsprozess haben wir in einem Are.na-Channel](http
 
 ### Ein Baukasten 🔧
 
-Das Bild vom Baukasten ist sicherlich schon häufig bemüht worden, trotzdem scheint es uns auch hier zu passen. Wir stellen verschiedene Tools - eben Funktionen, Werkzeuge, Bausteine - zur Verfügung, die genutzt werden können. Nicht alle Optionen müssen genutzt werden: Wichtig ist uns mehr, was erzählt werden soll und was dafür gebraucht wird – oder um im Konjunktiv zu sprechen: gebraucht werden könnte.
+Das Bild vom Baukasten ist sicherlich schon häufig bemüht worden, trotzdem scheint es uns auch hier zu passen. Wir stellen verschiedene Tools - eben Funktionen, Werkzeuge, Bausteine - zur Verfügung, die genutzt werden können. Nicht alle Optionen sind notwendig: Wichtig ist uns mehr, was erzählt werden soll und was dafür gebraucht wird – oder um im Konjunktiv zu sprechen: gebraucht werden könnte.
 In diesem Sinn verstehen wir den Baukasten als ein Angebot, aus dem genommen und geschöpft werden kann.
 
 ### Backend 💻
@@ -52,14 +52,14 @@ Die technische Entwicklung haben wir durch Tools wie Rspec, Capybara, Cypress, R
 
 ### Webclient 📱
 
-Die fertige Karte kann über ein einfaches Frontend betrachtet und veröffentlicht werden. Wir haben dazu einen Webclient konzipiert und designt, der die Karte schnell, einfach und intuitiv benutzbar macht. Dabei hilft ein innovatives UI-Design. Über verschiedene Optionen – etwa Hintergrundbild und -farbe, Auswahl einer Hintergrundkarte – können die Produzent\*innen der Karte das Aussehen des Clients bestimmen. <br>
+Die fertige Karte kann über ein einfaches Frontend betrachtet und veröffentlicht werden. Wir haben dazu einen Webclient konzipiert und designt, der die Karte schnell, einfach und intuitiv benutzbar macht. Dabei hilft ein innovatives UI-Design. Über verschiedene Optionen – etwa Hintergrundbild und -farbe, Auswahl einer Hintergrundkarte – können die Produzent*innen der Karte das Aussehen des Clients bestimmen. <br>
 Das Ergebnis ist mobile-first, die Views lassen sich durch Swipes, Tastatur oder Mausklicks ansteuern.
 
 ![Mockup für die Navigation des Webclients](/assets/images/project_images/a-thousand-channels/a1000c--client-mockup-navigation.jpg)
 
 ### Datenschutz 🤭
 
-Wir haben mehrere Datenschutz-Funktionen in das Backend implementiert, u.a. eine Rasterfunktion die die Verfremdung von Bilder erlaubt, die automatische Entfernung von Metadaten aus Bildern sowie eine experimentelle Funktion zur Verschleierung von Geodaten (etwa um die Lokalisierung von sensiblen Orten zu erschweren).
+Wir haben mehrere Datenschutz-Funktionen in das Backend implementiert, u.a. eine Rasterfunktion, die die Verfremdung von Bilder erlaubt, die automatische Entfernung von Metadaten aus Bildern sowie eine experimentelle Funktion zur Verschleierung von Geodaten (etwa um die Lokalisierung von sensiblen Orten zu erschweren).
 
 ![Beispiel für die Rasterung eines Fotos, hier jeweils ein Foto und davor die gerasterte Version](/assets/images/project_images/a-thousand-channels/a1000c--backend-rasterizing2.gif)
 
@@ -67,17 +67,17 @@ Wir haben mehrere Datenschutz-Funktionen in das Backend implementiert, u.a. eine
 
 ### Map to go 👜
 
-Für die User\*innen wollen wir eine strukturelle Abhängigkeit vermeiden, die bei der Benutzung einer Plattform im Internet (oder eines "Software-as-a-service") entsteht. Daher machen wir am Ende eines Mappingprozess mit unserer Plattform das Angebot, die Karte "mitzunehmen".
+Für die User*innen wollen wir eine strukturelle Abhängigkeit vermeiden, die bei der Benutzung einer Plattform im Internet (oder eines "Software-as-a-service") entsteht. Daher machen wir am Ende eines Mappingprozesses mit unserer Plattform das Angebot, die Karte "mitzunehmen".
 
 Dieses Feature haben wir Map-to-go genannt: Die eigene Karte kann niedrigschwellig als statische Website exportiert und auf dem eigenen Webspace veröffentlicht werden. (Und für technisch Versierte steht eine einfache JSON-Schnittstelle zu Verfügung, um einen eigenen Client zu erstellen und mit den Daten aus der Karte zu füttern).
 
 ### Alles zusammen 📚
 
-Unser Wunsch war, das die Plattform intuitiv zu benutzen ist, Spaß macht und respektvoll und sensibel auf die Ansprüche der Nutzer\*innen – auch hinsichtlich des Datenschutzes – eingeht. Wir hoffen, dass wir diesem Anspruch in den letzten Monaten der Projektentwicklung nachkommen konnten.
+Unser Wunsch war, das die Plattform intuitiv zu benutzen ist, Spaß macht und respektvoll und sensibel auf die Ansprüche der Nutzer*innen – auch hinsichtlich des Datenschutzes – eingeht. Wir hoffen, dass wir diesem Anspruch in den letzten Monaten der Projektentwicklung nachkommen konnten.
 
 Den Weg vom ersten Eintrag auf einer neuen Karte bis zum fertigen Webclient haben wir möglichst einfach gehalten.
 
-Die Plattform bietet aber auch Möglichkeiten, eine Karte zu erstellen und zu gestalten, die die jeweils besonderen Narrationen visuell aufgreift und umsetzt, etwa durch einen Fork (also eine Kopie zur eigenen Anpassung) unseres Webclients oder die Nutzung der Daten-Schnittstelle (via JSON)
+Die Plattform bietet aber auch Möglichkeiten, eine Karte zu erstellen und zu gestalten, die die jeweils besonderen Narrationen visuell aufgreift und umsetzt, etwa durch einen Fork (also eine Kopie zur eigenen Anpassung) unseres Webclients oder die Nutzung der Daten-Schnittstelle (via JSON).
 
 Anders gesagt: Ohne viele Vorkenntnisse kann eine Karte erstellt werden; mit mehr technischen Skills oder dem Interesse, sich diese anzueignen, ist es aber auch möglich – weiterhin schnell und einfach, wie wir hoffen – tiefer in die individuelle Gestaltung der Karte einzutauchen.
 
@@ -98,9 +98,9 @@ Wir konnten in dem von uns verwendeten Technologie-Stack von der Erzeugung der K
 
 ### Wie weiter? (Ein Ausblick) 🚀
 
-Wir holen jetzt einmal tief Luft und basteln bestimmt noch an ein paar Ecken weiter. Gleichzeitig suchen wir weitere Initiativen, die Interesse haben, unsere Plattform für ihre queeren Mappings auszuprobieren. Auf diese Kooperationen freuen wir uns und sind sehr gespannt auf die Ergebnisse.
+Wir holen jetzt einmal tief Luft und basteln bestimmt noch an ein paar Ecken weiter. Gleichzeitig suchen wir weitere Initiativen, die Interesse haben, unsere Plattform für ihre queeren Mappings auszuprobieren. Auf diese Kooperationen freuen wir uns und sind gespannt auf die Ergebnisse.
 
-Wir werden versuchen, unser Projekt zu verstetigen, damit diese Plattform auch längerfristig erhalten und ausgebaut werden kann.
+Wir werden versuchen, unser Projekt zu verstetigen, damit die Plattform auch längerfristig erhalten und ausgebaut werden kann.
 
 Daher würden wir uns sehr über praktische Mithilfe, Feedback oder auch finanzielle Unterstützung freuen, die uns hilft, das Projekt nachhaltig zu entwickeln.
 
