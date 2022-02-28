@@ -97,6 +97,6 @@ War Chatmopshere 1.0 ein Interaktionsprototyp, so ist Chatmosphere 2.0 ein Infra
   
 Vielen Dank an das Bundesministerium für Bildung und Forschung, dass dieses Format möglich gemacht hat und Danke an das Team des Prototype-Funds und des Deutschen Zentrums für Luft- und Raumfahrt für die emotionale, fachliche und administrative Unterstützung.
 
-Bleibt gesund und trefft euch mit euren Freunden in [Chatmosphere](https://chatmosphere.cc/) 
+Bleibt gesund und trefft euch mit euren Freund:innen in [Chatmosphere](https://chatmosphere.cc/) 
 
 
