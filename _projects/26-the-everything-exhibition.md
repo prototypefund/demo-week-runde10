@@ -32,19 +32,19 @@ Ein paar Startpunkte:
 
 In der Suchleiste oben rechts können beliebige Themen eingegeben werden. Die Seite schlägt via Autocomplete Themen vor.
 
-<video src="/assets/images/project_images/the-everything-exhibiton/generate.mp4" autoplay controls muted loop width=800></video>
+<video src="/assets/images/project_images/the-everything-exhibition/generate.mp4" autoplay controls muted loop width=800></video>
 
 ### Erzeugung von Unterräumen pro Kapitel
 
 Die Kapitelstruktur von Wikipedia-Artikeln wird in eine 3D-Raumstruktur umgesetzt, die erkundet werden kann.
 
-<video src="/assets/images/project_images/the-everything-exhibiton/rundgang.mp4" autoplay controls muted loop width=800></video>
+<video src="/assets/images/project_images/the-everything-exhibition/rundgang.mp4" autoplay controls muted loop width=800></video>
 
 ### Layouting der Räume
 
 Die Räume werden so zusammengesetzt, dass sie insgesamt möglichst wenig Platz einnehmen und eine ansprechende 3D-Ausstellung ergeben.
 
-<video src="/assets/images/project_images/the-everything-exhibiton/flug.mp4" autoplay controls muted loop width=800></video>
+<video src="/assets/images/project_images/the-everything-exhibition/flug.mp4" autoplay controls muted loop width=800></video>
 
 ### Unterstützung beliebiger MediaWikis
 
@@ -54,13 +54,13 @@ MediaWiki ist die Software hinter Projekten wie Wikipedia und weil sie eine einh
 - [Zuko](https://blinry.github.io/everything-exhibition/#https://avatar.fandom.com/wiki/Zuko) aus "Avatar: The Last Airbender" auf fandom.com
 - [Museum](https://blinry.github.io/everything-exhibition/#https://de.wiktionary.org/wiki/Museum) in Wiktionary
 
-<video src="/assets/images/project_images/the-everything-exhibiton/fandom.mp4" autoplay controls muted loop width=800></video>
+<video src="/assets/images/project_images/the-everything-exhibition/fandom.mp4" autoplay controls muted loop width=800></video>
 
 ### Multiplayer
 
 Die Everything Exhibition erlaubt das Erkunden der Ausstellungen in Gruppen! Wie in einem Onlinespiel können sich mehrere Personen über das Internet zusammenschließen und sich dann im 3D-Raum als bunte Avatare sehen. So kann man sich beispielsweise in einer Onlinekonferenz zusammenschließen und gemeinsam ein Thema erkunden. Man kann sich einen Namen, eine Farbe und einen Gesichtsausdruck geben.
 
-<video src="/assets/images/project_images/the-everything-exhibiton/multiplayer.mp4" autoplay controls muted loop width=800></video>
+<video src="/assets/images/project_images/the-everything-exhibition/multiplayer.mp4" autoplay controls muted loop width=800></video>
 
 ### Mehrsprachigkeit
 
@@ -70,19 +70,19 @@ Hier ist beispielsweise eine [bayrische Ausstellung über Brezeln](https://blinr
 
 Durch Eingabe des Sprachcodes in der Box oben links (zum Beispiel "ja" für Japanisch oder "fr" für Französisch) können Ausstellungen in beliebigen anderen Sprachen generiert werden.
 
-<video src="/assets/images/project_images/the-everything-exhibiton/mehrsprachigkeit.mp4" autoplay controls muted loop width=800></video>
+<video src="/assets/images/project_images/the-everything-exhibition/mehrsprachigkeit.mp4" autoplay controls muted loop width=800></video>
 
 ### Gemeinsam Zeichnen
 
 Per Linksklick können alle Spielenden auf die Oberflächen des Museums malen, und so bestimmte Abschnitte markieren oder sich auf andere Inhalte hinweisen.
 
-<video src="/assets/images/project_images/the-everything-exhibiton/zeichnen.mp4" autoplay controls muted loop width=800></video>
+<video src="/assets/images/project_images/the-everything-exhibition/zeichnen.mp4" autoplay controls muted loop width=800></video>
 
 ### Verlinkungen
 
 Durch Klick auf einen blau hinterlegten Link kann man zu einem anderen Thema springen, und so mehr über verwandte Themengebiete lernen. Wenn man wieder zurück zum vorigen Thema möchte, gibt es neben dem Haupteingang der Ausstellung eine Verknüpfung, die zurückführt.
 
-<video src="/assets/images/project_images/the-everything-exhibiton/links.mp4" autoplay controls muted loop width=800></video>
+<video src="/assets/images/project_images/the-everything-exhibition/links.mp4" autoplay controls muted loop width=800></video>
 
 ## Vortrag auf der FOSDEM 2022 (Englisch)
 
